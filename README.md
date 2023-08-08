@@ -9,28 +9,37 @@ Data Sets:
 Are we adding an API?
 
 
-what is the the most volatile stock?
+what is the the most volatile stock? - Alex
   year over year comparison box and wisker plot
-    How did covid effect each of these stocks?
-        comparison of 2018 - 2020 (box and wisker)
-        comparison of 2020 - 2023 (box and wisker)
-        *potentials month over month*
 
 
-How did each stock compare over a five year period (2018 - 2023)
+How did covid effect each of these stocks? - West
+    comparison of 2018 - 2020 (box and wisker)
+    comparison of 2020 - 2023 (box and wisker)
+      *potentials month over month*
+
+
+How did each stock compare over a five year period (2018 - 2023) - Pasindu
   going to be a line graph
 
 
-Comparison of total volume?
+Comparison of total volume? - Alpha / Khoi
   Panic sells
   comparison of the trading volume across the different stocks
     find the week or month or day wih the highest volume, see what events in the world happened during this time
 
 
-What is the best investment?
+Meta Analysis (name change) - Kyle
+  28Oct21 name chnage
+  comparison of meta stock on that day
+  comparison of META to other FNAG stocks on that day
+    FANG > MANG
+
+
+What is the best investment? - Everyone
   depending who you ask, its dodge!
-  pie chart - safest portfolio to have
   sunburst chart - we need to think about how we're going to use this one
+
     
     
   
